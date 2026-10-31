@@ -1,0 +1,18 @@
+# Alarm session data — don't commit
+alarms.json
+alarms.json.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test artifacts
+tests/_test_alarms.json
+tests/_test_alarms.json.tmp
+
+# Virtual environment (if ever added)
+.venv/
+venv/
+env/
